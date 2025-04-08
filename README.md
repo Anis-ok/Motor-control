@@ -1,2 +1,2 @@
 # Motor-control
-here i work on motor control 
+here work on motor control 
